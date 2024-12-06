@@ -1,0 +1,15 @@
+{
+"transactions":[
+    {
+    "id":"1",
+    "text":"Food",
+    "amount":"500"
+    },
+    {
+        "id":"46",
+        "text":"Shopping",
+        "amount":"2000"
+    }
+
+]
+}

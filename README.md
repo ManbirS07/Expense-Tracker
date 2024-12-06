@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Personal Expense Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A personal expense tracker to keep a record of your expenses made using Html,Css and React.js
 
 ## Available Scripts
 
